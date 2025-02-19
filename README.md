@@ -12,8 +12,8 @@
 
 <div>
 <a href="https://github.com/canalrjc">
-<img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?canalrjc&layout-compact&langs_count-7&theme-dracula"/>
-<img heigth="180em" src="https://github-readme-stats.vercel.app/api?canalrjc&show_icons=true&theme=dracula&include_all_commits=true&count_private=tru"/>
+<img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=canalrjc&layout-compact&langs_count=7&theme-dracula"/>
+<img heigth="180em" src="https://github-readme-stats.vercel.app/api?canalrjc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 
