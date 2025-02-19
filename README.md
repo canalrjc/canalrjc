@@ -10,7 +10,7 @@ Atualmente, dedico meu tempo ao aprimoramento das linguagens de programação **
 📚 **Objetivo:**  
 Aprimorar minhas habilidades em programação, aplicando o conhecimento adquirido em projetos próprios e desafios práticos.  
 <div>
-<a herf="https://github.com/canalrjc">
+<a href="https://github.com/canalrjc">
 <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?canalrjc&layout-compact&langs_count-7&theme-dracula"/>
 <img heigth="180em" src="https://github-readme-stats.vercel.app/api?canalrjc&show_icons=true&theme=dracula&include_all_commits=true&count_private=tru"/>
 </div>
